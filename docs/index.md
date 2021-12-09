@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# PEC3: Visionando el futuro con las gafas de Manovich
+## Recurso de aprendizaje de Cultura Digital 
+Autor: Camino Díaz Santiago
 
-You can use the [editor on GitHub](https://github.com/Camyds/PEC3_Manovich_Reloaded/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Fecha: 12/2/2021
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Planteamiento
+Manovich define la multimedia y la hibridación como la combinación de múltiples medios en uno solo. En el caso de la multimedia estos medios comparten un entorno y coexisten manteniendo cada uno la forma en que se consumen y sus peculiaridades, este documento sería un buen ejemplo, ya que tendremos textos escritos imágenes y vídeos, pero no por ello será un medio hibrido. En cambio, la hibridación lo define como la combinación de estos medios ya existentes, de modo que se crean nuevas técnicas y herramientas a partir de las ya existentes para definir un nuevo medio, es decir, el resultado es más que la suma de sus partes.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Re-descubriendo la hibridación: Caso 1 Pokemon Go
+Un ejemplo de híbrido de  juego tradicional con visualización en  realidad aumentada a traves de nuestros dispositivos, telefonos, tablet. 
 
-# Header 1
-## Header 2
-### Header 3
+<iframe width = "560" height = "315" src= " https://www.youtube.com/watch?v=4FCKVpt5HjM" title = "Realidad aumentada Pokemon Go" </iframe>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Re-descubriendo la hibridación: Caso 2 "Alexa"
 
-**Bold** and _Italic_ and `Code` text
+## Referencias y Bibliografía
+- Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
+___________________________________________________________________
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Camyds/PEC3_Manovich_Reloaded/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY Tubik studio
