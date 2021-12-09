@@ -17,4 +17,7 @@ Un ejemplo de híbrido de  juego tradicional con visualización en  realidad aum
 
 ### Re-descubriendo la hibridación: Caso 2 "Alexa"
 
+ Bibliografía##  Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY Tubik studio
+ 
+
 
