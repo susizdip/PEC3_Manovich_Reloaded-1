@@ -17,12 +17,11 @@ Un ejemplo de híbrido de  juego tradicional con visualización en  realidad aum
 -
 
 ### Re-descubriendo la hibridación: Caso 2 "Alexa"
--
+
 
 ## Referencias y Bibliografía
 - Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
---
-
+_____________________________________________
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY Tubik studio
  
 
