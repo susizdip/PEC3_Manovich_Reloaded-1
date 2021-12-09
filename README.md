@@ -12,7 +12,7 @@ Manovich define la multimedia y la hibridación como la combinación de múltipl
 ### Re-descubriendo la hibridación: Caso 1 Pokemon Go
 Un ejemplo de híbrido de  juego tradicional con visualización en  realidad aumentada a traves de nuestros dispositivos, telefonos, tablet. 
 
-<iframe width = "560" height = "315" src = " https://www.youtube.com/watch?v=4FCKVpt5HjM" title = "Realidad aumentada Pokemon Go" frameborder = "0" allow = "acelerómetro; reproducción automática; portapapeles- escribir; medios cifrados; giroscopio; imagen en imagen "allowfullscreen> </iframe>
+<iframe width = "560" height = "315" src= " https://www.youtube.com/watch?v=4FCKVpt5HjM" title = "Realidad aumentada Pokemon Go" </iframe>
 
 
 ### Re-descubriendo la hibridación: Caso 2 "Alexa"
