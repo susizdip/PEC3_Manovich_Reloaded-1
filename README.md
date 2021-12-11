@@ -26,4 +26,6 @@ Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Im√
  
 
 
-;).
+;). Elegir los temas predefinidos los haces desde_ Settings >>> GitHub Pages >>> Choose themes
+y ah√≠ tiene los temas predefinidos y el link para compartir.
+
